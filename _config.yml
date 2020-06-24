@@ -27,11 +27,11 @@ header:
 footer:
   content: '&copy; All rights reserved.'
   links:
-    - label: Made with Stackbit
-      url: 'https://www.stackbit.com'
+    - label: Made with ❤️
+      url: 'https://janastu.org'
       type: link
       new_window: true
-  has_social: true
+  has_social: false
   social_links:
     - label: Twitter
       url: 'https://twitter.com/'
