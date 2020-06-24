@@ -1,6 +1,6 @@
 ---
-title: 
-subtitle: 
+title: About
+subtitle: Milli Consortium
 img_path: 
 layout: page
 ---
