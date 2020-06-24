@@ -2,10 +2,7 @@
 title: Home
 has_intro: true
 intro_content: >-
-  This is the "about" excerpt. It can be used to provide a paragraph about
-  yourself that people can read on the homepage to get a sense of who you are.
-  There also exists a dedicated about page where you can write more about
-  yourself for those who are interested.
+  Milli is a consortium of individuals and communities interested in the nurturing of archives. Archives enable diverse stories. This aim guides the work of the consortium, the purpose, form and content of an archive, and what environments it could nourish in the future.
 intro_actions:
   - label: Learn More
     url: /about
