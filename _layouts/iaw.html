@@ -21,9 +21,8 @@ layout: body
     <div class="post-content inner-md">
       {{ content }}
     </div><!-- .post-content -->
-  </article><!-- .post -->
-
-<div class="post-feed">
+    
+    <div class="post-feed">
     {% assign display_posts = '/posts' | get_pages | sort: 'date' | reverse %}
     {% for post in display_posts %}
     <article class="post post-card">
@@ -56,3 +55,5 @@ layout: body
     </article><!-- .post -->
     {% endfor %}
   </div><!-- .post-feed -->
+
+  </article><!-- .post -->
