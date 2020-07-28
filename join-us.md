@@ -32,7 +32,7 @@ Milli helps individuals and institutions to build and sustain archives.
 It facilitates discussions among the community around issues of
 diversity, archival standards, conservation, physical and digital
 access, pedagogy, privacy and the development of inclusive description
-standards. More here: https://www.milli.link/about/
+standards. More here: [https://www.milli.link/about/]({% link about.md %})
 
 Ours is a small team of archivists, designers, developers, and semantic
 web researchers.
@@ -42,4 +42,4 @@ necessary. Compensation will be commensurate with experience, but
 keeping in mind that the consortium is operating out of India.
 
 If you’re interested, drop us an email with a few lines about yourself
-and/or a CV: janastu (at) servelots (dot) com
+and/or a CV: <a href="mailto:janastu@servelots.com">janastu (at) servelots (dot) com</a>
