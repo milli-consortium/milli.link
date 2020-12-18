@@ -32,16 +32,16 @@ Location, hours and compensation:
 Applicant can be based anywhere in the world and operate with a flexible hours schedule. Compensation will be commensurate with experience, but keeping in mind that the consortium is operating out of India.
 
 Reference material:
-* High level architecture is captured in the blue flowchart in this section: https://hackmd.io/0ogY6lp6THqOhZdLpzrr8A?view#Architecture-Discussions
-* Notes from our weekly meetings: https://hackmd.io/0ogY6lp6THqOhZdLpzrr8A?view
-* Design team's early take based on our concept ideas: https://miro.com/app/board/o9J_kmcSUm4=/ and https://www.figma.com/file/gDqIy5VF6JAPAUZGGenfkJ/Milli-Future-Design
-* Example of a recent open source project we have been looking at carefully: https://reviewsindh.pubpub.org/pub/recogito/release/5
-* Archival Standards: https://www.archives.org.uk/about/sections-interest-groups/archives-a-technology/news-and-events.html
-* Introduction to metadata and interfaces: https://guides.lib.utexas.edu/metadata-basics/intro
-* Web annotation vocabulary:  https://www.w3.org/TR/annotation-protocol/
-* Example of standardized vocabulary: https://id.loc.gov/
-* Milli sessions from 2020: https://www.milli.link/iaw2020/
-* Archival theory and background can be picked up from the training manual at the Archives at NCBS (a partner institute): https://drive.google.com/open?id=1APupqJVXvInNekPqOZFETEgcRdMvO7Z1
+* High level architecture is captured in the blue flowchart in this section: [https://hackmd.io/0ogY6lp6THqOhZdLpzrr8A?view#Architecture-Discussions](https://hackmd.io/0ogY6lp6THqOhZdLpzrr8A?view#Architecture-Discussions)
+* Notes from our weekly meetings: [https://hackmd.io/0ogY6lp6THqOhZdLpzrr8A?view](https://hackmd.io/0ogY6lp6THqOhZdLpzrr8A?view)
+* Design team's early take based on our concept ideas: [https://miro.com/app/board/o9J_kmcSUm4=/](https://miro.com/app/board/o9J_kmcSUm4=/) and [https://www.figma.com/file/gDqIy5VF6JAPAUZGGenfkJ/Milli-Future-Design](https://www.figma.com/file/gDqIy5VF6JAPAUZGGenfkJ/Milli-Future-Design)
+* Example of a recent open source project we have been looking at carefully: [https://reviewsindh.pubpub.org/pub/recogito/release/5](https://reviewsindh.pubpub.org/pub/recogito/release/5)
+* Archival Standards: [https://www.archives.org.uk/about/sections-interest-groups/archives-a-technology/news-and-events.html](https://www.archives.org.uk/about/sections-interest-groups/archives-a-technology/news-and-events.html)
+* Introduction to metadata and interfaces: [https://guides.lib.utexas.edu/metadata-basics/intro](https://guides.lib.utexas.edu/metadata-basics/intro)
+* Web annotation vocabulary:  [https://www.w3.org/TR/annotation-protocol/](https://www.w3.org/TR/annotation-protocol/)
+* Example of standardized vocabulary: [https://id.loc.gov/](https://id.loc.gov/)
+* Milli sessions from 2020: [https://www.milli.link/iaw2020/](https://www.milli.link/iaw2020/)
+* Archival theory and background can be picked up from the training manual at the Archives at NCBS (a partner institute): [https://drive.google.com/open?id=1APupqJVXvInNekPqOZFETEgcRdMvO7Z1](https://drive.google.com/open?id=1APupqJVXvInNekPqOZFETEgcRdMvO7Z1)
 
 
 -----
