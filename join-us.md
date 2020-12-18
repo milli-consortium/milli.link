@@ -7,13 +7,14 @@ layout: page
 ## Front end developer
 ### Currently open
 
-About Milli
 The Milli Consortium is a not-for-profit network of individuals and communities interested in the nurturing of archives. Milli helps individuals and institutions to build and sustain archives. It facilitates discussions among the community around issues of diversity, archival standards, conservation, physical and digital access, pedagogy, privacy and the development of inclusive description standards. More here: [https://www.milli.link/about/](https://www.milli.link/about/). Ours is a small team of archivists, designers, developers, and semantic web researchers.
 
-Call for Front end developer
+#### Call for Front end developer
+
 Milli intends to roll out prototypes of our archival discovery-interpretation-narration tool in early 2021. We are looking for a frontend developer for a six-month project (variable work hours).
 
 Applying:
+
 If you’re interested in what you see below, drop us an email with a few lines about yourself, some way to see your past work and/or a CV: [hello@milli.link](hello@milli.link)
 
 Applicants should be interested in working on web annotations, semantic frameworks, and archival description. An interest in long term research in these areas or adjoining disciplines will be very helpful. They should be happy in an open source environment that is also dedicated to decentralized networks of information. Some other things we look for:
