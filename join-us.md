@@ -15,7 +15,7 @@ Milli intends to roll out prototypes of our archival discovery-interpretation-na
 
 Applying:
 
-If you’re interested in what you see below, drop us an email with a few lines about yourself, some way to see your past work and/or a CV: [hello@milli.link](hello@milli.link)
+If you’re interested in what you see below, drop us an email with a few lines about yourself, some way to see your past work and/or a CV: [hello (at) milli (dot) link](hello (at) milli (dot) link)
 
 Applicants should be interested in working on web annotations, semantic frameworks, and archival description. An interest in long term research in these areas or adjoining disciplines will be very helpful. They should be happy in an open source environment that is also dedicated to decentralized networks of information. Some other things we look for:
 
