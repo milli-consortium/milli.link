@@ -38,11 +38,13 @@ $palette: (
 @import "imports/palettes";
 
 #to-top {
-   position: fixed;
+  position: fixed;
   bottom: 50px;
   right: 50px;
   z-index: 100;
   display: none;
   padding: 8px 4px;
   cursor: pointer;
+  border-bottom: none;
+  width: 60px;
 }
