@@ -36,3 +36,22 @@ scrollToTop = function () {
     window.scrollTo(0, c - c / 8);
   }
 };
+
+// show scroll button after x% scrolling
+document.addEventListener("scroll", handleScroll);
+// get a reference to the button
+var scrollToTopBtn = document.querySelector("#to-top");
+
+function handleScroll() {
+  var scrollableHeight = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+  var GOLDEN_RATIO = 0.5;
+
+  if ((document.documentElement.scrollTop / scrollableHeight ) > GOLDEN_RATIO) {
+    //show button
+    scrollToTopBtn.style.display = "block";
+  } else {
+    //hide button
+    scrollToTopBtn.style.display = "none";
+  }
+}
+
