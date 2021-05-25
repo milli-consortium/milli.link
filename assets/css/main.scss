@@ -36,3 +36,13 @@ $palette: (
 @import "imports/subscribe";
 @import "imports/footer";
 @import "imports/palettes";
+
+#to-top {
+   position: fixed;
+  bottom: 50px;
+  right: 50px;
+  z-index: 100;
+  display: none;
+  padding: 8px 4px;
+  cursor: pointer;
+}
