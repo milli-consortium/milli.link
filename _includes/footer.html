@@ -12,14 +12,20 @@
         {% endfor %}
       </div><!-- .site-info -->
       {% assign has_social_is_not_empty = site.footer.has_social | is_not_empty %}
+      
+      <div class="social-icons">
+        <img src="https://i.imgur.com/R1WELBE.png=30x30" alt="Instagram"> <a href="https://www.instagram.com/milli.link/" target="_blank">Instagram</a> | 
+        <img src="https://i.imgur.com/43JhyOy.png =30x30" alt="Twitter"> <a href="https://twitter.com/ArchivesMilli" target="_blank">Twitter</a> | 
+        <img src="https://i.imgur.com/zWsIYR6.png =30x30" alt="Face Book"> <a href="https://www.facebook.com/Milli-Archives-Consortium-114463243629922/" target="_blank">Facebook</a>
+      </div>
       {% if has_social_is_not_empty %}
       <div class="social-links">
         {% for action in site.footer.social_links %}
           
           {% include action_link.html action=action %}
-        {% endfor %}
-      </div><!-- .social-links -->
-      {% endif %}
-    </div><!-- .site-footer-inside -->
-  </div><!-- .inner -->
+          {% endfor %}
+        </div><!-- .social-links -->
+        {% endif %}
+      </div><!-- .site-footer-inside -->
+    </div><!-- .inner -->
 </footer><!-- .site-footer -->
