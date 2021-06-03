@@ -1,6 +1,8 @@
 ---
-title: Literature and Archives: Resource Building Campaign
+title: Literature and Archives - Resource Building Campaign
+subtitle:
+img_path: 
 layout: post
 ---
 
-Wrapping up and connecting dots
+Today’s session provided
