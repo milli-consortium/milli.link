@@ -1,5 +1,5 @@
 ---
-title: International Archives Week - Milli Sessions 2021
+title: All week | Literature and Archives: Resource Building Campaign
 subtitle: 
 img_path: 
 layout: page
