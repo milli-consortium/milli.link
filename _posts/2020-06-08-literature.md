@@ -1,5 +1,5 @@
 ---
-title: All week | Literature and Archives: Resource Building Campaign
+title: Literature and Archives: Resource Building Campaign
 layout: post
 ---
 
