@@ -6,4 +6,4 @@ layout: page
 permalink: /literature/
 ---
 
-Lets see if this works
+Coming soon!
