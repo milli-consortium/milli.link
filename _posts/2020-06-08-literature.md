@@ -1,5 +1,5 @@
 ---
-title: Blah Blah
+title: All week | Literature and Archives: Resource Building Campaign
 layout: post
 ---
 
