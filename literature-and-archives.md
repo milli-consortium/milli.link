@@ -46,3 +46,56 @@ We’re creating a crowdsourced list of **fiction and poetry** that features arc
   * This dystopian tale set in the United States that's been converted into a theonomy, "The Republic of Gilead", is told through the voice of one woman, Offred, whose narrative switches between the past and present. It's only at the end of the novel that we realise that this entire narrative was part of a historical record; that Offred had recorded her story on cassette tapes that were transcribed by historians and are now being studied as archival material — and the limitations of archival material are noted in the fact that we never find out what ultimately happened to Offred; we (and the characters at the end of the novel who are delving into Offred's story)  are left to construct an ending for her story, to "fill in the gaps" , an act which would probably reveal more about the reader's/archivist's circumstances and psychology than the protagonist's or the writer's. 
 
 ---
+
+* **Anil (The Squirrel) (1986) by Ambai**
+  * **Language**: Tamil
+  * **Form**: Short story
+  * **Connection to archives**: The story follows an unnamed narrator’s search for women’s writing in an archive. The volumes she wants are piled on a high shelf and covered in dust. On going through the books and journals and magazines the narrator finds the women in the pages springing to life, barely contained within the pages; artistes dancing, musicians singing, missionaries on horseback, leaders shouting slogans. They cover women’s lives from the extraordinary to the mundane, and have a power and a vigour that cannot be contained. But her experience of reading them is in stark contrast to the heartbreaking reality of their physical neglect, and she finds out they are to be burnt—a commentary on women’s place in the archive.    
+
+---
+
+* **Teresa (2013) by Nisha Susan**
+  * **Language**: English
+  * **Form**: Short story
+  * **Connection to archives**: This story revolves around two women—a writer named Teresa who died suddenly, and an unnamed woman (the story’s narrator) who later marries Teresa’s husband. Glamorous, captivating and popular, even in death Teresa is somehow larger than life, until the narrator discovers Teresa’s old laptop and copies the contents of its hard drive, which reveals a secret blog in which Teresa recorded her life (sexual encounters, a love poem from the man she went on to marry), a secret Flickr account with photos of her body, eBay purchases, frequently visited links, years worth of Facebook updates, article drafts, and more. The hard drive serves as an archive of Teresa’s true, unfiltered self, her private life digitally documented, demystifying her to the narrator and drawing the two women closer. 
+
+---
+
+* **Chronicle of a Death Foretold (1981) by Gabriel García Márquez**
+  * **Language**: Spanish/English
+  * **Form**: Novel 
+  * **Connection to Archives**: A reconstruction of a murder, this story briefly features a set of case files that say less about the case and more about the nameless investigating magistrate instead. His character is discovered in the notes he made in the margins, ranging wildly from feverish perplexion, to disillusioned doodles and Nietzschean philosophy. The story highlights how official accounts are sometimes  unable to tell the complete tale, but also captures the manner in which they may be given a new life and value by those who use them. It draws our attention to annotations and the fact that sometimes, with archival material, they will tell you more than the main content itself. 
+
+---
+
+* **Frederick (1967) by Leo Lionni** 
+  * **Language**: English
+  * **Form**: Children’s book
+  * **Connection to Archives**: Frederick is the story of a little mouse poet who spends his time observing the world as the others in his family scurry about gathering food for the long winter. While they initially consider him lazy and useless, the mice later discover Frederick’s value when he keeps them alive with his recollection of red poppies, blue periwinkles, the golden warmth of the sun, and hopeful reminders of the cyclical nature of seasons. In a sense, he has been archiving these memories and experiences of beauty, of happiness, and of hope, which ends up being as crucial to the survival of the mice as the food they worked so hard to gather. The story highlights the importance of collecting and engaging with memories of the past, and how doing so is central to our existence.
+
+---
+
+* **The Night Bookmobile (2008) by Audrey Niffenegger**
+  * **Language**: English
+  * **Form**: Graphic novel, originally serialised in The Guardian 
+  * **Connection to archives**: In a bad mood and walking about one night, Alexandra chances upon the kindly Mr Openshaw and his Night Bookmobile. He invites her to look through the books, and despite the lateness of the hour and the possible danger, she's tempted. Inside, she finds everything she's ever read, making it a kind of archive of her own collection, her own history, in a way. She quickly becomes obsessed with this disappearing archive, which leads to some personal revelations. Here, we see how archives, as public facilities, can hold a place for our individual selves.
+
+---
+
+* **Do Androids Dream of Electric Sheep? (1968) by Philip K. Dick**
+  * **Language**: English
+  * **Form**: Novel 
+  * **Connection to Archives**: Set in a dystopian world, this iconic novel follows the journey of a bounty hunter tasked with killing six rebel androids. Fitted with memory implants of childhoods they never lived and feelings they never felt, these androids struggle to piece together a sense of identity. Though archives don’t have a prominent place in this story, there’s an understanding that these memories have been collected from humans and archived by the corporation manufacturing androids for the state. The story makes us consider some unsettling possibilities—are there ways in which our own lives may be archived and used in the future by power hungry States and corporations? And how do you make sense of yourself when your history, taken from such archives, has been handed to you, trimmed and edited to the convenience of these authorities?
+
+---
+
+* **A Memory Called Empire (2019) by Arkady Martine**
+  * **Language**: English
+  * **Form**: Novel
+  * **Connection to Archives**: This is a science fiction novel—part space opera, part whodunit—that explores the mechanisms of colonial conquest as a cultural, psychological, and military project. The novel follows the newly appointed Ambassador to a small space station that operates in the shadow of the vast and ever expanding Teixcalaanli Empire. She hides a big secret: that her people have the technology to transfer the memories and consciousness of one person to another, achieving a sort of functional immortality. "Institutional memory" in this case is entirely personal, and in this story the person is the archive. They are carrying within them the legacy of their ancestors not just in terms of DNA or the knowledge they have acquired of them, they are integrated with their personas and memories as well. In the context of colonialism, it's a peculiarly poignant form of resistance—every death of a person without the chance to pass on their "imago"  is not just an individual loss, but a collective one.
+ 
+
+---
+ 
+
+
