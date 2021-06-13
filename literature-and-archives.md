@@ -50,7 +50,7 @@ We’re creating a crowdsourced list of **fiction and poetry** that features arc
 * **Anil (The Squirrel) (1986) by Ambai**
   * **Language**: Tamil
   * **Form**: Short story
-  * **Connection to archives**: The story follows an unnamed narrator’s search for women’s writing in an archive. The volumes she wants are piled on a high shelf and covered in dust. On going through the books and journals and magazines the narrator finds the women in the pages springing to life, barely contained within the pages; artistes dancing, musicians singing, missionaries on horseback, leaders shouting slogans. They cover women’s lives from the extraordinary to the mundane, and have a power and a vigour that cannot be contained. But her experience of reading them is in stark contrast to the heartbreaking reality of their physical neglect, and she finds out they are to be burnt—a commentary on women’s place in the archive.    
+  * **Connection to archives**: The story follows an unnamed narrator’s search for women’s writing in an archive. The volumes she wants are piled on a high shelf and covered in dust. On going through the books and journals and magazines the narrator finds the women in the pages springing to life, barely contained within the pages; artistes dancing, musicians singing, missionaries on horseback, leaders shouting slogans. They cover women’s lives from the extraordinary to the mundane, and have a power and a vigour that cannot be contained. But her experience of reading them is in stark contrast to the heartbreaking reality of their physical neglect, and she finds out they are to be burnt—a commentary on women’s 'place' in the archive.    
 
 ---
 
@@ -77,7 +77,7 @@ We’re creating a crowdsourced list of **fiction and poetry** that features arc
 
 * **The Night Bookmobile (2008) by Audrey Niffenegger**
   * **Language**: English
-  * **Form**: Graphic novel, originally serialised in The Guardian 
+  * **Form**: Graphic novel, originally serialised in [*The Guardian*](https://www.theguardian.com/books/series/nightbookmobile).
   * **Connection to archives**: In a bad mood and walking about one night, Alexandra chances upon the kindly Mr Openshaw and his Night Bookmobile. He invites her to look through the books, and despite the lateness of the hour and the possible danger, she's tempted. Inside, she finds everything she's ever read, making it a kind of archive of her own collection, her own history, in a way. She quickly becomes obsessed with this disappearing archive, which leads to some personal revelations. Here, we see how archives, as public facilities, can hold a place for our individual selves.
 
 ---
@@ -97,5 +97,47 @@ We’re creating a crowdsourced list of **fiction and poetry** that features arc
 
 ---
  
+* **The ‘Feluda’ series by Satyajit Ray**
+  * **Languag**e: Bengali 
+  * **Form**: Novels, short stories 
+  * **Connection to the archives**: Siddheshwar Bose (Siddhu Jyatha) is a recurring character in the ‘Feluda’ series, in which the private detective Prodosh C Mitter or Feluda solves mysteries with his cousin and unofficial assistant Topshe. Siddhu Jyatha has a photographic memory, encyclopaedic knowledge, and an extensive collection of newspaper clippings kept in catalogued scrapbooks. As an amateur archivist,  he is an invaluable source of information and stories. Relatable perhaps for archivists of all kinds, is the pure pride and joy Siddhu lights up with at every chance he gets to prove the value of his collection. 
+
+
+---
+
+* **The Avengers #28 (1966)** 
+  * **Language**: English
+  * **Form**: Comic
+  * **Connection to archives**: The Collector, Taneleer Tivan (played by Benicio del Toro in the Guardians of the Galaxy movies), makes his first appearance in #28 of the Avengers comic series, when he tries to collect an Avenger! Over the course of the series, we learn that this minor character is an ancient being whose goal is to collect objects and species (dead and alive, including people) from across the galaxy and preserve them because he foresees the destruction of the universe one day. His collections are housed in museums and zoos that he sets up on different planets. But though his impulse to collect began with good intentions, it eventually turns into obsession. His interest in people and creatures is as specimens, rather than as conscious beings, and he’ll do anything to get his hands on a new addition to his collection. The Collector, as a villainous character, confronts us with questions about why we archive, and whether archiving is necessarily an altruistic pursuit. 
+
+---
+
+
+* **The Telling (2000) by  Ursula K Le Guin**
+  * **Language**: English
+  * **Form**: Novel
+  * **Connection to archives**: This sci-fi novel belongs to the same universe as The Left Hand of Darkness, and has Sutty, an observer sent by the Ekumen to the planet Aka. On Aka, she sees religious and political conflict between the government and its people. All records of the past on this planet have been deliberately destroyed, and Sutty finds herself among a community that resists this by recording their culture in oral forms. In telling and re-telling their stories, they form a living archive of sorts. Central to the story is the way the people preserve knowledge under structures that seek to erase it. Here, themes of retelling, memory, and the link between knowledge and identity, are explored. 
+ 
+
+---
+* **The Lost Children Archive (2019) by Valeria Luiselli**
+  * **Language**: English
+  * **Form**: Novel
+  * **Connection to archives**: The novel follows a couple, who are both documentarians, and their children on a cross-country journey from New York to Arizona. The husband wants to retrace the steps of the last Apache resistance to European colonialists and the wife wants to document the "lost children"—unaccompanied minors fleeing violence and instability in Central America turning up at the United States' southern borders and being detained by Border Patrol. The novel is an exploration of what it means to document, to bear witness, and how the stories we tell of the past and present can fuse into each other and take on new meanings.
+ 
+
+---
+ 
+* **All the Names by Jose Saramago**
+  * **Language**: Portuguese
+  * **Form**: Novel
+  * **Connection to archives**: The story revolves around a clerk in the Central Registry of Births, Marriages, and Deaths in an unnamed city. He finds solace in archival records (which he steals) to escape the drudgery of his clerical job. He finds the records of an unknown woman and becomes obsessed with learning more about her. Through the Central Registry, the novel explores the desire to archive and what it means to know someone, or something, through the bureaucratic archive.
+
+
+---
+
+**Contributors**
+
+Ajitha GS; Bharat S; Bhaskar Shenoy; CS Lakshmi; Deepika S; Maya Nirmala; Natasa Thoudam; Poorva Rajaram; Priyanka Mathai; Ranjani Prasad; Sangeeth; Sanjna Girish; Shalom Gauri.
 
 
