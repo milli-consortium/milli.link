@@ -6,6 +6,20 @@ Stackbit Ampersand Theme original README is located [here](./README.theme.md).
 
 # Running Your Site Locally
 
+## Using Docker
+
+- Install Docker
+- Install Docker-Compose
+- Run:
+
+```bash
+docker-compose up
+```
+
+- open `localhost:4000/`
+
+## Via a Ruby environment
+
 1. Install a full [Ruby development environment](https://jekyllrb.com/docs/installation/)
 
 1. Install Jekyll and Bundler
