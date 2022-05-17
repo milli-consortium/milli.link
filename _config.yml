@@ -24,6 +24,9 @@ header:
     - label: IAW2021
       url: /iaw2021/
       type: link
+    - label: IAW2022
+      url: /iaw2022/
+      type: link
     - label: Contact
       url: /contact/
       type: link
