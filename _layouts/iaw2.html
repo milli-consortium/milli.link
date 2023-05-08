@@ -23,7 +23,7 @@ layout: body
     </div><!-- .post-content -->
     
     <div class="post-feed">
-    {% assign display_posts = '/posts' | get_pages | where: 'category', 'iaw2020' | sort: 'date'  | reverse %}
+    {% assign display_posts = '/posts' | get_pages | where: 'category', 'iaw2021' | sort: 'date'  | reverse %}
     {% for post in display_posts %}
     <article class="post post-card">
       <div class="post-card-inside">
@@ -56,4 +56,6 @@ layout: body
     {% endfor %}
   </div><!-- .post-feed -->
 
+    
+    <a href='#' id='to-top' onclick='scrollToTop()'><img src='/images/up-arrow.png' /></a>
   </article><!-- .post -->
