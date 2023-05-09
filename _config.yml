@@ -1,7 +1,5 @@
-title: Milli
-domain: milli-consortium.github.io
-url: https://milli-consortium.github.io
-baseurl: /milli.link/
+title: Milli 
+baseurl: /
 permalink: '/:title/'
 collections:
   posts:
