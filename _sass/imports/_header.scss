@@ -52,7 +52,7 @@
 
 .menu-item {
   &.current-menu-item {
-    color: #79219d;
+    color: _palette(accent);
   }
 
   a {
@@ -65,7 +65,7 @@
       text-transform: uppercase;
 
       &:hover {
-        color: #79219d;
+        color: _palette(accent);
       }
     }
   }
