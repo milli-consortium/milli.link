@@ -189,7 +189,7 @@ body {
   text-rendering: optimizeLegibility; }
 
 a {
-  border-bottom: 2px solid #884874;
+  border-bottom: 2px solid #8C4673;
   color: #536171;
   text-decoration: none;
   -webkit-transition: .3s ease;
@@ -275,7 +275,7 @@ pre {
     margin-top: 0; }
 
 blockquote {
-  border-top: 3px solid #884874;
+  border-top: 3px solid #8C4673;
   color: #333b45;
   font-family: "PT Serif", serif;
   font-size: 1.33333rem;
@@ -286,7 +286,7 @@ blockquote {
   blockquote:first-child {
     margin-top: 0; }
   blockquote:before {
-    color: #884874;
+    color: #8C4673;
     content: "\201C";
     font-size: 64px;
     left: 0;
@@ -469,8 +469,8 @@ input[type="submit"],
 input[type="button"],
 input[type="reset"],
 .button {
-  background: #884874;
-  border: 2px solid #884874;
+  background: #8C4673;
+  border: 2px solid #8C4673;
   border-radius: 3px;
   box-sizing: border-box;
   color: #fff;
@@ -499,16 +499,16 @@ input[type="reset"],
   .button:focus,
   .button:active {
     background: 0;
-    border-color: #884874;
-    color: #884874;
+    border-color: #8C4673;
+    color: #8C4673;
     outline: 0; }
 
 .button-secondary {
   background: 0;
-  color: #884874; }
+  color: #8C4673; }
   .button-secondary:hover, .button-secondary:focus, .button-secondary:active {
-    background: #884874;
-    border-color: #884874;
+    background: #8C4673;
+    border-color: #8C4673;
     color: #fff; }
 
 .button-icon {
@@ -729,7 +729,7 @@ img {
  */
 .site-header {
   background: #fff;
-  border-top: 5px solid #884874;
+  border-top: 5px solid #8C4673;
   border-bottom: 1px solid #e3e6ea; }
 
 .site-header-inside {
@@ -767,7 +767,7 @@ img {
   padding: 0; }
 
 .menu-item.current-menu-item {
-  color: #79219d; }
+  color: #8C4673; }
 .menu-item a:not(.button) {
   border: 0;
   color: inherit;
@@ -776,7 +776,7 @@ img {
   letter-spacing: 0.1em;
   text-transform: uppercase; }
   .menu-item a:not(.button):hover {
-    color: #79219d; }
+    color: #8C4673; }
 
 @media (min-width: 961px) {
   .menu-toggle {
@@ -981,7 +981,7 @@ img {
     margin-right: 1.75vw;
     overflow: hidden; }
   .layout-grid .post-card-content:only-child {
-    border-top: 50px solid rgba(136, 72, 116, 0.1); }
+    border-top: 50px solid rgba(140, 70, 115, 0.1); }
 
   .layout-list .post-card-inside {
     display: -webkit-box;
@@ -1008,7 +1008,7 @@ img {
     -ms-flex: 1 1 auto;
     flex: 1 1 auto; }
     .layout-list .post-card-content:only-child {
-      border-right: 165px solid rgba(136, 72, 116, 0.1);
+      border-right: 165px solid rgba(140, 70, 115, 0.1);
       padding-right: 7%; } }
 @media only screen and (min-width: 860px) {
   .post-feed,
